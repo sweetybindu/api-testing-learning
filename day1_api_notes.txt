@@ -1,0 +1,5 @@
+Day 1 – API Basics
+- What is API
+- Request and Response
+- GET method
+- Postman introduction
