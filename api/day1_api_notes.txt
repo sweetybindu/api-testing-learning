@@ -1,0 +1,3 @@
+Day 1 – API Basics
+- API meaning
+- Request & Response
